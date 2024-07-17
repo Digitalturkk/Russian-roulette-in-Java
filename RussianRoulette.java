@@ -70,7 +70,7 @@ class RussianRoulette{
                     } else {
                         /*
                         We need to be sure, that our number isn't repeating.
-                        For this, we created an ArrayList (line: 31) where we will store our used random numbers.
+                        For this, we created an ArrayList (line: 30) where we will store our used random numbers.
                          */
                         if (!used.contains(start)){
                             used.add(start);
