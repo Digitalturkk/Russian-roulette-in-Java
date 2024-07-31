@@ -87,5 +87,7 @@ class RussianRoulette{
             }
             // Print прокрутку
         }
+        System.out.println(null);
+        System.out.println("You won this game >:(");
     }
 }
