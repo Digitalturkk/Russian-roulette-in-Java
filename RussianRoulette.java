@@ -9,12 +9,7 @@ class RussianRoulette{
         Random ranNumb = new Random();
         return ranNumb.nextInt(x) + 1;
     }
-
-    public int noRepeat(){
-        int a = 1;
-        return a;
-    }
-
+    
     public static void main(String[] args){
         // Place of bullet in cylinder
         Random win = new Random();
