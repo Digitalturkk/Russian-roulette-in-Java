@@ -13,7 +13,7 @@ class RussianRoulette{
     
     public static void main(String[] args){
         // Place of bullet in cylinder
-        int deathNum = RussianRoulette.ranInt(6);
+        int deathNum = ranInt(6);
 
         // Scores in our game
         int winScore, gameScore;
