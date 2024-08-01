@@ -77,7 +77,7 @@ class RussianRoulette{
                             System.out.println(wonDialog.get(ranInt(8)));
                             System.out.println("Last "+gameScore+" games >:^)");
                             winScore++;
-                            gameScore -= 1;
+                            gameScore--;
                             // Можно и добвить прокрутку
                         } else {
                             start = ranInt(6);
@@ -87,7 +87,8 @@ class RussianRoulette{
             }
             // Print прокрутку
         }
-        System.out.println(null);
-        System.out.println("You won this game >:(");
+        if (winScore == 5){
+            System.out.println("You won this game >:(");
+        }
     }
 }
