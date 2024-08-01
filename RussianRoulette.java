@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 class RussianRoulette{
+    
     public static int ranInt(int x){
         // Creating new random number as a staring point of our drum
         Random ranNumb = new Random();
@@ -12,8 +13,7 @@ class RussianRoulette{
     
     public static void main(String[] args){
         // Place of bullet in cylinder
-        Random win = new Random();
-        int deathNum = win.nextInt(6) + 1;
+        int deathNum = RussianRoulette.ranInt(6);
 
         // Scores in our game
         int winScore, gameScore;
