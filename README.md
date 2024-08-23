@@ -7,5 +7,4 @@ You need to survive 5 times...
 
 (I'm working on a version where you will play with pc)
 - single player 🗡️
-- vs ai(pc) 🤖
-- 2 players ⚔️
+- vs ai(pc) 🤖 
