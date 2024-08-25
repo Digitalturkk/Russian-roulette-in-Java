@@ -80,7 +80,6 @@ class RussianRoulette{
                         }
                     }
             }
-            // Print прокрутку
         }
         if (winScore == 5){
             System.out.println("You won this game >:(");
