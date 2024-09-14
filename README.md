@@ -7,3 +7,10 @@ You need to survive 5 times...
 
 - single player 🗡️
 - vs ai(pc) 🤖 
+
+Starst with
+```
+javac RussianRoulette.java
+java RussianRoulette
+```
+Then witer 'y' to start game and continue
