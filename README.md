@@ -9,7 +9,7 @@ You need to survive 5 times...
 - vs ai(pc) 🤖 
 
 Starst with
-```
+```[bash]
 javac RussianRoulette.java
 java RussianRoulette
 ```
