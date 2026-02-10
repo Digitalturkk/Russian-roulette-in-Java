@@ -31,7 +31,7 @@ class RussianRoulettePC {
         wonDialog.add(2,"You won this time.");
         wonDialog.add(3,"Haha, isn't it funny?");
         wonDialog.add(4,"How Russians say 'born in a shirt' ");
-        wonDialog.add(5,"Ohh, did you shit in your pants? Ahaha, wait... did you?");
+        wonDialog.add(5,"Ohh, did you shit in your pants? Ahaha, wait... you did?");
         wonDialog.add(6,"It was so close...");
         wonDialog.add(7,"You are dealing with death!");
         wonDialog.add(8,"I remember, how i played this game first time, never lost till this time, ahaha");
